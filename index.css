@@ -1,0 +1,33 @@
+body{
+background: #2A211CFF;
+}
+h1{
+	color: #FF0D09FF;
+
+}
+p{
+	color: #00DC1EFF;
+		font-family: Arial;
+}
+h2{
+	color: #00A6FFFF;
+}
+h3{
+	color: yellow;
+}
+a{
+	color: violet;
+}
+h4{
+	color:#E0DDD7FF;
+		font-family: Arial;
+}
+p2{
+	color: orange ;
+	font-size: 20px;
+	font-family: Veranda;
+}
+p4{
+	color:red;
+	font-size: lowercase;
+}
