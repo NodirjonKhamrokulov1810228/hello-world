@@ -1,3 +1,4 @@
+![photo_2021-02-28_19-11-35](https://user-images.githubusercontent.com/78851495/109429841-f6e96d80-7a1f-11eb-9521-448124ada551.jpg)
 # hello-world
 MyLab2
 
@@ -29,7 +30,41 @@ MyLab2
 		    <p2> ENGINEERING COMMUNICATION</p2><br>
 			<p2> COMPUTER NETWORKS</p2><br>
 			
-			<h2><center>MY FAVORITE MOVIES</h2>
+			<h2><center>MY FAVORITE MOVIES</h2>![photo_2021-02-28_19-19-53](https://user-images.githubusercontent.com/78851495/109429843-f8b33100-7a1f-11eb-83c1-d257d071ed81.jpg)
+
+body{
+background: #2A211CFF;
+}
+h1{
+	color: #FF0D09FF;
+
+}
+p{
+	color: #00DC1EFF;
+		font-family: Arial;
+}
+h2{
+	color: #00A6FFFF;
+}
+h3{
+	color: yellow;
+}
+a{
+	color: violet;
+}
+h4{
+	color:#E0DDD7FF;
+		font-family: Arial;
+}
+p2{
+	color: orange ;
+	font-size: 20px;
+	font-family: Veranda;
+}
+p4{
+	color:red;
+	font-size: lowercase;
+}
 
 <h3> FAST & FURIOUS</h3><a href="https://www.imdb.com/title/tt1013752/">(IMDB)</a>
 <h4>Genres: Thriller,Crime</h4>
